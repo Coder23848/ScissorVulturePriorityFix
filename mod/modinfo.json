@@ -1,0 +1,12 @@
+{
+	"id": "scissorvulturepriorityfix",
+	"name": "Scissor Vulture Priority Fix",
+	"version": "1.0.0",
+	"hide_version": false,
+	"authors": "Coder23848",
+	"description": "Prevents scissor vultures from unreasonably prioritizing the slugcat over other creatures.",
+	"requirements": [ "moreslugcats" ],
+	"requirements_names": [ "More Slugcats Expansion" ],
+	"checksum_override_version": false,
+	"tags": [ "Creatures" ]
+}
